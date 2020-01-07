@@ -1,6 +1,6 @@
 {
   "lms_host": "http://myopenedx.com",
   "user_email": "user@example.com",
-  "user_password": "passw0rd"
-  "course_title": "Demonstration Course",
+  "user_password": "passw0rd",
+  "course_title": "Demonstration Course"
 }
